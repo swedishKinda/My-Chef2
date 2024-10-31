@@ -13,6 +13,7 @@ body {
 .jumbotron {
     text-align: center;
      background-color: darkred;
+     padding: 20px;
 }
 
 .go {
