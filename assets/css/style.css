@@ -1,0 +1,183 @@
+body {
+    background-image: url("../images/Bumbu_dan_Rempah_rempah.jpg");
+    font-family: 'Didact Gothic', sans-serif;
+    color: whitesmoke;
+    background-size: cover;
+}
+
+.container {
+    margin-bottom: 75px;
+}
+
+.jumbotron {
+    text-align: center;
+     background-color: darkred;
+}
+
+.go {
+    background-color: darkred;
+    color: white;
+    font-size: 70px;
+}
+
+#sub {
+    background-color: darkred;
+    color: white;
+}
+#par {
+    background-color: darkred;
+    color: white;
+}
+
+.meal-img {
+    background-color: darkred;
+    float:right;
+    padding: 10px;
+    padding-right: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+h3 {
+    background-color: darkred;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.first-form {
+    background-color: darkred;
+    margin:auto;
+    text-align: center;
+    padding: 15px;
+}
+
+.second-form {
+    background-color: darkred;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.meals {
+    /* background-color: darkred; */
+    display: none;
+}
+
+.drinks {
+    /* background-color: darkred; */
+    display:none;
+}
+
+.display-slick {
+    background-color: darkred;
+    margin:auto;
+    /* display: none; */
+}
+
+.carousel-item {
+    /* text-align: center; */
+    padding: 5px;
+}
+.carousel-img {
+    height: 200px;
+    width: 200px;
+}
+
+.heading {
+    font-size: 120px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#sub {
+    font-size: 25px;
+}
+
+#par {
+    font-size: 25px;
+}
+
+.btn {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#meal-search {
+    margin-bottom: 10px
+}
+
+#meals {
+    margin-top: 15px;
+    margin-bottom: 10px
+}
+
+#drinks {
+    margin-top: 15px;
+}
+
+.display-single {
+    background-color: darkred;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    display: none;
+}
+
+h3 {
+    font-family: 'Cedarville Cursive', cursive;
+    padding-top: 15px;
+    font-size: 50px;
+}
+
+#ingredient-search {
+    margin-bottom: 30px;
+}
+
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 60px; 
+    background-color: darkred;
+    text-align: center;
+    border-top: 1px solid whitesmoke;
+}
+
+#reset-button{ 
+    margin-top: 10px;
+    display:none;
+}
+
+.my-alert {
+    /* Special styling for the alert box */
+    background-color:  white;
+    color: #343a40;
+    position:fixed;
+    top: 35%;
+    left: 35%;
+    height: 120px;
+    width: 380px;
+    border: 5px solid black;
+    text-align: center;
+    display:none;
+    box-shadow: 8px 8px 10px black;
+    padding: 4px;
+}
+
+#clear-alert {
+    margin: auto;
+}
+
+.slick-slide {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+hr {
+    background-color: whitesmoke;
+}
+
+#make-darkred {
+    background-color: darkred;
+    margin-left: 2px;
+    margin-right: 2px;
+}
